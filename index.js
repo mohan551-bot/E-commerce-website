@@ -250,7 +250,7 @@ const products = [
         category: 'fruits',
         price: 190,
         originalPrice: 270,
-        image: './Fruits image/Dragon Fruit.jpeg',
+        image: './Fruits image/Dragon fruit.jpeg',
         description: 'Tasty and nutritious dragon fruit'
     },
     {
@@ -1184,6 +1184,7 @@ backToTopButton.addEventListener('click', function (e) {
 
 // Initialize cart display
 updateCartDisplay();
+
 
 
 
